@@ -1,9 +1,13 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox, scrolledtext
+from dotenv import load_dotenv
 import pandas as pd
 import requests
 import json
 import os
+
+#Carregando as variáveis de ambiente
+load_dotenv()
 
 # Função para carregar a planilha de RFs 
 # Esta função abre uma janela para o usuário selecionar um arquivo Excel, 
@@ -86,14 +90,22 @@ def listar_leads():
         messagebox.showerror("Erro", f"Erro ao consultar leads: {response.status_code} - {response.text}")
 
 #Função para importar planilha de RF 
-def importar_rf(caminho_arquivo):
-    if 'df_rf' not in globals():
-        messagebox.showerror("Erro", "Por favor, carregue uma planilha primeiro.")
-        return
-
+def importar_rf(caminho_arquivo=None):
         try: 
-            df_rf = pd.read_excel(caminho_arquivo)
+            #Abrindo uma janela para selecionar o arquivo
+            from tkinter.filedialog import askopenfilename
+            caminho_arquivo = askopenfilename(title="Selecione a planilha com as RFs", filetypes=[("Arquivos Excel","*.xlsx")])
 
+            if not caminho_arquivo: 
+                messagebox.showerror("Erro", "Nenhum arquivo selecionad.")
+                return
+
+            df_rf = pd.read_excel(caminho_arquivo)
+            df_rf.columns = df_rf.columns.str.strip().str.upper()    
+
+            print("Colunas encontradas na planilha", df_rf.columns.tolist())
+
+            #Verificando se municipio e rf estão no data frame
             if 'MUNICIPIO' not in df_rf.columns or 'RF' not in df_rf.columns:
                 messagebox.showerror("Erro", "As colunas 'MUNICIPIO' e 'RF' não foram encontradas na planilha.")
                 return
@@ -105,7 +117,6 @@ def importar_rf(caminho_arquivo):
             messagebox.showerror("Erro", "Arquivo não encontrado. Por favor, verifique o camingo do arquivo")
         except Exception as e:
             messagebox.showerror("Erro", f"Ocorreu um erro ao importar a planilha: {str(e)}")
-
 
 # Função para enviar os dados para a API da ExactSales
 # Esta função percorre as linhas da planilha carregada e envia os dados de cada lead para a API.
@@ -176,9 +187,11 @@ def mostrar_resultado(resultado):
     resultado_texto.insert(tk.INSERT, resultado)
     resultado_texto.config(state=tk.DISABLED)
 
-# TKINTER 
-# Configurações dos estilos de janelas pelo Tkinter
-# Criação da janela principal do aplicativo usando Tkinter
+##
+##
+## TKINTER 
+## Configurações dos estilos de janelas pelo Tkinter
+## Criação da janela principal do aplicativo usando Tkinter
 janela = tk.Tk()
 janela.title("Atualização de Leads - ExactSales")
 janela.geometry("500x400")
@@ -225,20 +238,14 @@ btn_consultar.pack(pady=10)
 btn_consultar.bind("<Enter>", on_enter)
 btn_consultar.bind("<Leave>", on_leave)
 
-# Botão para importar a planilha
-btn_importar = tk.Button(janela, text="Importar Planilha", command=importar_leads, **estilo_botao)
-btn_importar.pack(pady=10)
-btn_importar.bind("<Enter>", on_enter)
-btn_importar.bind("<Leave>", on_leave)
+#Botão para importar planilha de RF
+btn_importar_rf = tk.Button(janela, text="Importar RF", command=importar_rf, **estilo_botao)
+btn_importar_rf.pack(pady=10)
+btn_importar_rf.bind("<Enter>", on_enter)
+btn_importar_rf.bind("<Leave>", on_leave)
 
 # Botão para enviar dados para a API
 btn_enviar = tk.Button(janela, text="Enviar Atualização", command=enviar_dados, **estilo_botao)
-btn_enviar.pack(pady=10)
-btn_enviar.bind("<Enter>", on_enter)
-btn_enviar.bind("<Leave>", on_leave)
-
-#Botão para importar planilha de RF
-btn_importar_rf = tk.Button(janela, text="Importar RF", command=importar_rf, **estilo_botao)
 btn_enviar.pack(pady=10)
 btn_enviar.bind("<Enter>", on_enter)
 btn_enviar.bind("<Leave>", on_leave)
