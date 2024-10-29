@@ -7,9 +7,12 @@ import json
 import os
 import numpy as np
 import logging
+import tempfile
 
-# Configurando o logger
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s', filename='lead_update_log.log', filemode='w')
+# Configurando o logger para salvar em %temp%
+temp_dir = tempfile.gettempdir()
+log_file_path = os.path.join(temp_dir, 'LeadUpdaterLog.log')
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s', filename=log_file_path, filemode='w')
 
 # Carregando as variáveis de ambiente
 load_dotenv()
@@ -81,6 +84,8 @@ def atualizar_regiao():
         logging.error("Tentativa de atualizar leads sem consultar a lista de leads primeiro.")
         return
 
+    leads_com_erro = []
+
     for lead in leads_list:
         lead_id = lead.get('id')
         lead_city = lead.get('city')
@@ -97,10 +102,11 @@ def atualizar_regiao():
 
             # Configura a atualização do campo "Região" com base no valor correspondente
             update_data = {
+                "duplicityValidation": "true",
                 "lead": {
                     "customFields": [
                         {
-                            "id": "_regiao",
+                            "id": 78397,
                             "options": [
                                 {
                                     "id": int(regiao_value),
@@ -118,6 +124,9 @@ def atualizar_regiao():
                 if update_response.status_code == 201:
                     print(f"Lead atualizado com sucesso! ID: {lead_id}, Nome: {lead_name}, Município: {lead_city}, Região: {regiao_value}")
                     logging.info(f"Lead atualizado com sucesso! ID: {lead_id}, Nome: {lead_name}, Município: {lead_city}, Região: {regiao_value}")
+                elif "Lead already exists" in update_response.text:
+                    leads_com_erro.append(lead)
+                    logging.warning(f"Lead duplicado encontrado. ID: {lead_id}, Nome: {lead_name}")
                 else:
                     print(f"Erro ao atualizar lead {lead_id}: {update_response.status_code} - {update_response.text}")
                     print("Payload enviado:", json.dumps(update_data, indent=4, ensure_ascii=False))
@@ -130,27 +139,40 @@ def atualizar_regiao():
             print(f"Região não encontrada para o município: {lead_city}")
             logging.warning(f"Região não encontrada para o município: {lead_city}")
 
-# TKINTER
-janela = tk.Tk()
-janela.title("Atualização de Leads - ExactSales")
-janela.geometry("600x600")
-janela.configure(bg="#ffffff")
+    # Reprocessar leads com erro de duplicidade
+    if leads_com_erro:
+        logging.info("Reprocessando leads com erro de duplicidade...")
+        for lead in leads_com_erro:
+            lead_id = lead.get('id')
+            lead_city = lead.get('city')
+            lead_name = lead.get('lead', 'N/A')
 
-# Botão para carregar a planilha de RFs
-btn_carregar_rf = tk.Button(janela, text="Carregar Planilha de RFs", command=carregar_planilha_rf)
-btn_carregar_rf.pack(pady=10)
+            regiao_value = df_rf[df_rf['MUNICIPIO'] == lead_city]['RF'].values[0]
+            regiao_rd = df_rf[df_rf['MUNICIPIO'] == lead_city]['RD'].values[0]
 
-# Botão para listar leads
-btn_listar_leads = tk.Button(janela, text="Listar Leads", command=listar_leads)
-btn_listar_leads.pack(pady=10)
-
-# Área de texto para exibir os leads
-text_area = scrolledtext.ScrolledText(janela, width=70, height=20)
-text_area.pack(pady=10)
-
-# Botão para atualizar a região dos leads
-btn_atualizar_regiao = tk.Button(janela, text="Atualizar Região dos Leads", command=atualizar_regiao)
-btn_atualizar_regiao.pack(pady=10)
-
-# Inicia a interface gráfica do Tkinter
-janela.mainloop()
+            update_data = {
+                "duplicityValidation": "false",
+                "lead": {
+                    "customFields": [
+                        {
+                            "id": 78397,
+                            "options": [
+                                {
+                                    "id": int(regiao_value),
+                                    "value": regiao_rd
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+            try:
+                api_update_url = f"https://api.exactspotter.com/v3/LeadsUpdate/{lead_id}"
+                update_response = requests.put(api_update_url, headers=headers, json=update_data, timeout=30)
+                
+                if update_response.status_code == 201:
+                    print(f"Lead reprocessado com sucesso! ID: {lead_id}, Nome: {lead_name}, Município: {lead_city}, Região: {regiao_value}")
+                    logging.info(f"Lead reprocessado com sucesso! ID: {lead_id}, Nome: {lead_name}, Município: {lead_city}, Região: {regiao_value}")
+                else:
+                    print(f"Erro ao reprocessar lead {lead_id}: {update_response.status_code} - {update_response.text}")
+                    logging.error(f"Erro
