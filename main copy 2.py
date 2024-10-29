@@ -175,4 +175,57 @@ def atualizar_regiao():
                     logging.info(f"Lead reprocessado com sucesso! ID: {lead_id}, Nome: {lead_name}, Município: {lead_city}, Região: {regiao_value}")
                 else:
                     print(f"Erro ao reprocessar lead {lead_id}: {update_response.status_code} - {update_response.text}")
-                    logging.error(f"Erro
+                    logging.error(f"Erro ao reprocessar lead {lead_id}: {update_response.status_code} - {update_response.text}")
+            except requests.RequestException as e:
+                print(f"Erro ao tentar reprocessar lead {lead_id}: {e}")
+                logging.error(f"Erro ao tentar reprocessar lead {lead_id}: {e}")
+
+# Função para exportar leads com município 'None'
+def exportar_leads_sem_municipio():
+    if 'leads_list' not in globals():
+        messagebox.showerror("Erro", "Por favor, consulte os leads primeiro.")
+        logging.error("Tentativa de exportar leads sem consultar a lista de leads primeiro.")
+        return
+
+    leads_sem_municipio = [lead for lead in leads_list if lead.get('city') is None]
+    if not leads_sem_municipio:
+        messagebox.showinfo("Informação", "Nenhum lead sem município encontrado.")
+        logging.info("Nenhum lead sem município encontrado.")
+        return
+
+    # Salvar leads sem município em uma planilha
+    df_leads_sem_municipio = pd.DataFrame(leads_sem_municipio)
+    caminho_saida = filedialog.asksaveasfilename(defaultextension=".xlsx", filetypes=[("Excel files", "*.xlsx"), ("All files", "*.*")])
+    if caminho_saida:
+        df_leads_sem_municipio.to_excel(caminho_saida, index=False)
+        messagebox.showinfo("Sucesso", f"Leads sem município salvos em {caminho_saida}")
+        logging.info(f"Leads sem município salvos em {caminho_saida}")
+
+# TKINTER
+janela = tk.Tk()
+janela.title("Atualização de Leads - ExactSales")
+janela.geometry("600x600")
+janela.configure(bg="#ffffff")
+
+# Botão para carregar a planilha de RFs
+btn_carregar_rf = tk.Button(janela, text="Carregar Planilha de RFs", command=carregar_planilha_rf)
+btn_carregar_rf.pack(pady=10)
+
+# Botão para listar leads
+btn_listar_leads = tk.Button(janela, text="Listar Leads", command=listar_leads)
+btn_listar_leads.pack(pady=10)
+
+# Área de texto para exibir os leads
+text_area = scrolledtext.ScrolledText(janela, width=70, height=20)
+text_area.pack(pady=10)
+
+# Botão para atualizar a região dos leads
+btn_atualizar_regiao = tk.Button(janela, text="Atualizar Região dos Leads", command=atualizar_regiao)
+btn_atualizar_regiao.pack(pady=10)
+
+# Botão para exportar leads sem município
+btn_exportar_leads_sem_municipio = tk.Button(janela, text="Exportar Leads Sem Município", command=exportar_leads_sem_municipio)
+btn_exportar_leads_sem_municipio.pack(pady=10)
+
+# Inicia a interface gráfica do Tkinter
+janela.mainloop()
