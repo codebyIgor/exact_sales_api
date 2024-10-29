@@ -97,6 +97,7 @@ def atualizar_regiao():
 
             # Configura a atualização do campo "Região" com base no valor correspondente
             update_data = {
+                "duplicityValidation": "false",
                 "lead": {
                     "customFields": [
                         {
