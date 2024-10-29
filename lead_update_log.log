@@ -1,0 +1,1431 @@
+2024-10-24 11:38:16,059 - INFO - Planilha de RFs carregada com sucesso.
+2024-10-24 11:38:16,575 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:18,097 - DEBUG - https://api.exactspotter.com:443 "GET /v3/Leads HTTP/1.1" 200 None
+2024-10-24 11:38:19,261 - INFO - Leads consultados com sucesso.
+2024-10-24 11:38:21,002 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:22,469 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/17584283 HTTP/1.1" 201 97
+2024-10-24 11:38:22,469 - INFO - Lead atualizado com sucesso! ID: 17584283, Nome: Asun Comercio de Generos Alimenticios , Município: Canoas, Região: 78402
+2024-10-24 11:38:22,469 - WARNING - Lead ID 17686446 não possui cidade definida. Ignorando.
+2024-10-24 11:38:22,471 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:23,767 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18106669 HTTP/1.1" 201 97
+2024-10-24 11:38:23,768 - INFO - Lead atualizado com sucesso! ID: 18106669, Nome: MUNDO REAL ATACADO, Município: Sapiranga, Região: 78402
+2024-10-24 11:38:23,768 - WARNING - Lead ID 18290194 não possui cidade definida. Ignorando.
+2024-10-24 11:38:23,770 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:25,383 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18537372 HTTP/1.1" 201 97
+2024-10-24 11:38:25,385 - INFO - Lead atualizado com sucesso! ID: 18537372, Nome: SUPER FANTE, Município: Porto Alegre, Região: 78399
+2024-10-24 11:38:25,387 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:27,292 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18537435 HTTP/1.1" 201 97
+2024-10-24 11:38:27,293 - INFO - Lead atualizado com sucesso! ID: 18537435, Nome: Bohlke Supermercados, Município: Rolante, Região: 78400
+2024-10-24 11:38:27,294 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:28,989 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553167 HTTP/1.1" 201 97
+2024-10-24 11:38:28,990 - INFO - Lead atualizado com sucesso! ID: 18553167, Nome: Super Ki-Barato, Município: Viamão, Região: 78399
+2024-10-24 11:38:28,992 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:30,149 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553178 HTTP/1.1" 201 97
+2024-10-24 11:38:30,150 - INFO - Lead atualizado com sucesso! ID: 18553178, Nome: Mombach Supermercados, Município: Montenegro, Região: 78401
+2024-10-24 11:38:30,152 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:31,697 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553199 HTTP/1.1" 201 97
+2024-10-24 11:38:31,697 - INFO - Lead atualizado com sucesso! ID: 18553199, Nome: Mercado Bruvini, Município: Montenegro, Região: 78401
+2024-10-24 11:38:31,699 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:32,932 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553232 HTTP/1.1" 201 97
+2024-10-24 11:38:32,933 - INFO - Lead atualizado com sucesso! ID: 18553232, Nome: Popular Supermercados, Município: Tramandaí, Região: 78408
+2024-10-24 11:38:32,934 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:34,095 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553244 HTTP/1.1" 201 97
+2024-10-24 11:38:34,095 - INFO - Lead atualizado com sucesso! ID: 18553244, Nome: Marisul Supermercados, Município: Imbé, Região: 78408
+2024-10-24 11:38:34,097 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:35,576 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553263 HTTP/1.1" 201 97
+2024-10-24 11:38:35,577 - INFO - Lead atualizado com sucesso! ID: 18553263, Nome: Supermercado e Restaurante Barcellos, Município: Viamão, Região: 78399
+2024-10-24 11:38:35,579 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:37,104 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553287 HTTP/1.1" 201 97
+2024-10-24 11:38:37,104 - INFO - Lead atualizado com sucesso! ID: 18553287, Nome: Super Oliveira, Município: Viamão, Região: 78399
+2024-10-24 11:38:37,106 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:38,229 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553298 HTTP/1.1" 201 97
+2024-10-24 11:38:38,230 - INFO - Lead atualizado com sucesso! ID: 18553298, Nome: Mercado Ragan, Município: Cachoeirinha, Região: 78399
+2024-10-24 11:38:38,231 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:39,933 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553315 HTTP/1.1" 201 97
+2024-10-24 11:38:39,933 - INFO - Lead atualizado com sucesso! ID: 18553315, Nome: Supermercados Vanconsty, Município: Gravataí, Região: 78399
+2024-10-24 11:38:39,935 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:41,110 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553331 HTTP/1.1" 201 97
+2024-10-24 11:38:41,110 - INFO - Lead atualizado com sucesso! ID: 18553331, Nome: Super Pomier, Município: Gravataí, Região: 78399
+2024-10-24 11:38:41,112 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:42,384 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553375 HTTP/1.1" 201 97
+2024-10-24 11:38:42,385 - INFO - Lead atualizado com sucesso! ID: 18553375, Nome: Super Curitibanos, Município: Gravataí, Região: 78399
+2024-10-24 11:38:42,387 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:43,348 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553385 HTTP/1.1" 400 89
+2024-10-24 11:38:43,350 - ERROR - Erro ao atualizar lead 18553385: 400 - {"error":{"code":"","message":"Lead already exists Super SCHWALM,Supermercado Schwualm"}}
+2024-10-24 11:38:43,350 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78425,
+                        "value": "Rio da Várzea (R9)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:38:43,351 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:44,942 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553399 HTTP/1.1" 201 97
+2024-10-24 11:38:44,942 - INFO - Lead atualizado com sucesso! ID: 18553399, Nome: Supermercados Milano Sul, Município: Santa Vitória do Palmar, Região: 78409
+2024-10-24 11:38:44,944 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:46,475 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553413 HTTP/1.1" 201 97
+2024-10-24 11:38:46,475 - INFO - Lead atualizado com sucesso! ID: 18553413, Nome: Makro Chuí Supermercados, Município: Chuí, Região: 78409
+2024-10-24 11:38:46,477 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:47,594 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553418 HTTP/1.1" 201 97
+2024-10-24 11:38:47,595 - INFO - Lead atualizado com sucesso! ID: 18553418, Nome: Supermercado Brombatti (Gramado), Município: Gramado, Região: 78406
+2024-10-24 11:38:47,596 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:48,856 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553426 HTTP/1.1" 201 97
+2024-10-24 11:38:48,856 - INFO - Lead atualizado com sucesso! ID: 18553426, Nome: Supermercado Brombatti Canela, Município: Canela, Região: 78406
+2024-10-24 11:38:48,858 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:50,174 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18553439 HTTP/1.1" 201 97
+2024-10-24 11:38:50,174 - INFO - Lead atualizado com sucesso! ID: 18553439, Nome: Supermercado Lanz, Município: Igrejinha, Região: 78400
+2024-10-24 11:38:50,176 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:51,220 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566346 HTTP/1.1" 400 87
+2024-10-24 11:38:51,222 - ERROR - Erro ao atualizar lead 18566346: 400 - {"error":{"code":"","message":"Lead already exists Super Dinnos,Supermercado Dinno's"}}
+2024-10-24 11:38:51,222 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78417,
+                        "value": "Central (R8)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:38:51,224 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:52,496 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566379 HTTP/1.1" 201 97
+2024-10-24 11:38:52,496 - INFO - Lead atualizado com sucesso! ID: 18566379, Nome: Grupo Guasso Supermercados, Município: Santiago, Região: 78419
+2024-10-24 11:38:52,498 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:54,092 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566408 HTTP/1.1" 201 97
+2024-10-24 11:38:54,092 - INFO - Lead atualizado com sucesso! ID: 18566408, Nome: Damian Centerlar, Município: Santiago, Região: 78419
+2024-10-24 11:38:54,094 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:55,377 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566427 HTTP/1.1" 201 97
+2024-10-24 11:38:55,377 - INFO - Lead atualizado com sucesso! ID: 18566427, Nome: Supermercados Ramos, Município: Gravataí, Região: 78399
+2024-10-24 11:38:55,378 - WARNING - Lead ID 18566448 não possui cidade definida. Ignorando.
+2024-10-24 11:38:55,379 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:56,430 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566469 HTTP/1.1" 400 117
+2024-10-24 11:38:56,431 - ERROR - Erro ao atualizar lead 18566469: 400 - {"error":{"code":"","message":"Lead already exists Supermercados Heling,Keppler Supermercados,Supermercados Heling"}}
+2024-10-24 11:38:56,431 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78399,
+                        "value": "Metropolitana do Jacuí (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:38:56,433 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:57,748 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566502 HTTP/1.1" 201 97
+2024-10-24 11:38:57,749 - INFO - Lead atualizado com sucesso! ID: 18566502, Nome: Max Center / Jumbo Atacado, Município: Alvorada, Região: 78399
+2024-10-24 11:38:57,750 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:38:59,339 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566514 HTTP/1.1" 201 97
+2024-10-24 11:38:59,339 - INFO - Lead atualizado com sucesso! ID: 18566514, Nome: Super Santos, Município: Alvorada, Região: 78399
+2024-10-24 11:38:59,341 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:00,607 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566531 HTTP/1.1" 201 97
+2024-10-24 11:39:00,608 - INFO - Lead atualizado com sucesso! ID: 18566531, Nome: Macropan Supermercados, Município: Charqueadas, Região: 78398
+2024-10-24 11:39:00,609 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:02,277 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566549 HTTP/1.1" 201 97
+2024-10-24 11:39:02,277 - INFO - Lead atualizado com sucesso! ID: 18566549, Nome: Supermercado Santa Rita, Município: Porto Alegre, Região: 78399
+2024-10-24 11:39:02,279 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:03,644 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566560 HTTP/1.1" 201 97
+2024-10-24 11:39:03,644 - INFO - Lead atualizado com sucesso! ID: 18566560, Nome: Supermercado Daki, Município: Porto Alegre, Região: 78399
+2024-10-24 11:39:03,646 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:05,279 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566572 HTTP/1.1" 201 97
+2024-10-24 11:39:05,280 - INFO - Lead atualizado com sucesso! ID: 18566572, Nome: Super Davi, Município: Porto Alegre, Região: 78399
+2024-10-24 11:39:05,281 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:06,503 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566587 HTTP/1.1" 201 97
+2024-10-24 11:39:06,504 - INFO - Lead atualizado com sucesso! ID: 18566587, Nome: Atual Supermercados, Município: Guaíba, Região: 78399
+2024-10-24 11:39:06,506 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:07,745 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566629 HTTP/1.1" 201 97
+2024-10-24 11:39:07,745 - INFO - Lead atualizado com sucesso! ID: 18566629, Nome: Supermercados Paulinho, Município: Guaíba, Região: 78399
+2024-10-24 11:39:07,747 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:08,887 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566641 HTTP/1.1" 201 97
+2024-10-24 11:39:08,888 - INFO - Lead atualizado com sucesso! ID: 18566641, Nome: Supermercados Indio, Município: Guaíba, Região: 78399
+2024-10-24 11:39:08,889 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:10,467 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566654 HTTP/1.1" 201 97
+2024-10-24 11:39:10,467 - INFO - Lead atualizado com sucesso! ID: 18566654, Nome: Super Mago, Município: Porto Alegre, Região: 78399
+2024-10-24 11:39:10,469 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:11,716 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566658 HTTP/1.1" 201 97
+2024-10-24 11:39:11,716 - INFO - Lead atualizado com sucesso! ID: 18566658, Nome: Supermercados Copetti, Município: Santa Maria, Região: 78417
+2024-10-24 11:39:11,718 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:12,878 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566664 HTTP/1.1" 201 97
+2024-10-24 11:39:12,878 - INFO - Lead atualizado com sucesso! ID: 18566664, Nome: Supermercado Spode, Município: São Pedro do Sul, Região: 78417
+2024-10-24 11:39:12,880 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:14,058 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566676 HTTP/1.1" 201 97
+2024-10-24 11:39:14,058 - INFO - Lead atualizado com sucesso! ID: 18566676, Nome: Supermercados Kellermann, Município: Vacaria, Região: 78405
+2024-10-24 11:39:14,060 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:15,331 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566680 HTTP/1.1" 201 97
+2024-10-24 11:39:15,331 - INFO - Lead atualizado com sucesso! ID: 18566680, Nome: Supermercados Wollmann, Município: Candelária, Região: 78403
+2024-10-24 11:39:15,333 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:16,723 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566708 HTTP/1.1" 201 97
+2024-10-24 11:39:16,723 - INFO - Lead atualizado com sucesso! ID: 18566708, Nome: Hipo Supermercados, Município: Santa Maria, Região: 78417
+2024-10-24 11:39:16,725 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:17,919 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566718 HTTP/1.1" 201 97
+2024-10-24 11:39:17,919 - INFO - Lead atualizado com sucesso! ID: 18566718, Nome: Supermercados Maravilha, Município: Capão da Canoa, Região: 78408
+2024-10-24 11:39:17,921 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:19,193 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18566805 HTTP/1.1" 201 97
+2024-10-24 11:39:19,193 - INFO - Lead atualizado com sucesso! ID: 18566805, Nome: Maxideal e Super Certo Supermercados, Município: Capão da Canoa, Região: 78408
+2024-10-24 11:39:19,195 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:20,733 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18572097 HTTP/1.1" 201 97
+2024-10-24 11:39:20,733 - INFO - Lead atualizado com sucesso! ID: 18572097, Nome: Super Onze, Município: Pelotas, Região: 78409
+2024-10-24 11:39:20,735 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:22,273 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18572141 HTTP/1.1" 201 97
+2024-10-24 11:39:22,274 - INFO - Lead atualizado com sucesso! ID: 18572141, Nome: Atacado Globo, Município: Pelotas, Região: 78409
+2024-10-24 11:39:22,276 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:23,447 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18577233 HTTP/1.1" 201 97
+2024-10-24 11:39:23,447 - INFO - Lead atualizado com sucesso! ID: 18577233, Nome: Supermercados Bom Preço, Município: Tramandaí, Região: 78408
+2024-10-24 11:39:23,449 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:24,648 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18577597 HTTP/1.1" 201 97
+2024-10-24 11:39:24,649 - INFO - Lead atualizado com sucesso! ID: 18577597, Nome: Supermercado São Luiz, Município: Palmitinho, Região: 78421
+2024-10-24 11:39:24,651 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:25,890 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18577804 HTTP/1.1" 201 97
+2024-10-24 11:39:25,890 - INFO - Lead atualizado com sucesso! ID: 18577804, Nome: Supermercado Carnes e CIA, Município: Ibirubá, Região: 78416
+2024-10-24 11:39:25,892 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:27,466 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18608800 HTTP/1.1" 201 97
+2024-10-24 11:39:27,467 - INFO - Lead atualizado com sucesso! ID: 18608800, Nome: Unibom Supermercados, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:39:27,467 - WARNING - Lead ID 18656429 não possui cidade definida. Ignorando.
+2024-10-24 11:39:27,467 - WARNING - Lead ID 18657001 não possui cidade definida. Ignorando.
+2024-10-24 11:39:27,469 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:29,411 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18658228 HTTP/1.1" 201 97
+2024-10-24 11:39:29,412 - INFO - Lead atualizado com sucesso! ID: 18658228, Nome: Dotta Supermercado, Município: Gravataí, Região: 78399
+2024-10-24 11:39:29,414 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:31,058 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18659918 HTTP/1.1" 201 97
+2024-10-24 11:39:31,058 - INFO - Lead atualizado com sucesso! ID: 18659918, Nome: Supermercado Lunardelli, Município: Viamão, Região: 78399
+2024-10-24 11:39:31,060 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:32,768 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18660881 HTTP/1.1" 201 97
+2024-10-24 11:39:32,768 - INFO - Lead atualizado com sucesso! ID: 18660881, Nome: Denti Supermercado, Município: Nonoai, Região: 78421
+2024-10-24 11:39:32,770 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:34,084 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18809253 HTTP/1.1" 201 97
+2024-10-24 11:39:34,084 - INFO - Lead atualizado com sucesso! ID: 18809253, Nome: SUPERMERCADO REAL, Município: Paverama, Região: 78404
+2024-10-24 11:39:34,086 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:35,310 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816940 HTTP/1.1" 201 97
+2024-10-24 11:39:35,311 - INFO - Lead atualizado com sucesso! ID: 18816940, Nome: Supermercado Borges e Civa , Município: São Leopoldo, Região: 78402
+2024-10-24 11:39:35,313 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:36,902 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816941 HTTP/1.1" 201 97
+2024-10-24 11:39:36,903 - INFO - Lead atualizado com sucesso! ID: 18816941, Nome: Supermercados Rehbein , Município: São Leopoldo, Região: 78402
+2024-10-24 11:39:36,904 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:38,198 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816942 HTTP/1.1" 201 97
+2024-10-24 11:39:38,199 - INFO - Lead atualizado com sucesso! ID: 18816942, Nome: Supermercado e Padaria Globo, Município: Canoas, Região: 78402
+2024-10-24 11:39:38,201 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:39,746 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816943 HTTP/1.1" 201 97
+2024-10-24 11:39:39,746 - INFO - Lead atualizado com sucesso! ID: 18816943, Nome: Supermercado Sg, Município: Canoas, Região: 78402
+2024-10-24 11:39:39,748 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:41,375 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816944 HTTP/1.1" 201 97
+2024-10-24 11:39:41,375 - INFO - Lead atualizado com sucesso! ID: 18816944, Nome: Super Mercado Nazare , Município: Canoas, Região: 78402
+2024-10-24 11:39:41,377 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:42,543 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816945 HTTP/1.1" 201 97
+2024-10-24 11:39:42,543 - INFO - Lead atualizado com sucesso! ID: 18816945, Nome: Real A Loja do Preco Baixo, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:39:42,545 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:43,826 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816946 HTTP/1.1" 201 97
+2024-10-24 11:39:43,827 - INFO - Lead atualizado com sucesso! ID: 18816946, Nome: Supermercado Rebellatto , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:39:43,828 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:45,457 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816947 HTTP/1.1" 201 97
+2024-10-24 11:39:45,458 - INFO - Lead atualizado com sucesso! ID: 18816947, Nome: Big Center Shop , Município: São Leopoldo, Região: 78402
+2024-10-24 11:39:45,460 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:46,683 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816948 HTTP/1.1" 201 97
+2024-10-24 11:39:46,683 - INFO - Lead atualizado com sucesso! ID: 18816948, Nome: Mercado Evaldt, Município: Canoas, Região: 78402
+2024-10-24 11:39:46,685 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:47,891 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816950 HTTP/1.1" 201 97
+2024-10-24 11:39:47,892 - INFO - Lead atualizado com sucesso! ID: 18816950, Nome: Supermercado Hollywood, Município: Estância Velha, Região: 78402
+2024-10-24 11:39:47,893 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:49,184 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816951 HTTP/1.1" 201 97
+2024-10-24 11:39:49,189 - INFO - Lead atualizado com sucesso! ID: 18816951, Nome: Supermercado Motta & Lima , Município: Canoas, Região: 78402
+2024-10-24 11:39:49,191 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:50,421 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816952 HTTP/1.1" 201 97
+2024-10-24 11:39:50,422 - INFO - Lead atualizado com sucesso! ID: 18816952, Nome: J P Souza, Município: Canoas, Região: 78402
+2024-10-24 11:39:50,424 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:52,099 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816953 HTTP/1.1" 201 97
+2024-10-24 11:39:52,099 - INFO - Lead atualizado com sucesso! ID: 18816953, Nome: Saffra Bazar Store, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:39:52,101 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:53,436 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816954 HTTP/1.1" 201 97
+2024-10-24 11:39:53,436 - INFO - Lead atualizado com sucesso! ID: 18816954, Nome: TOP ATACADO, Município: São Leopoldo, Região: 78402
+2024-10-24 11:39:53,438 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:55,048 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816955 HTTP/1.1" 201 97
+2024-10-24 11:39:55,049 - INFO - Lead atualizado com sucesso! ID: 18816955, Nome: Unidasul Distribuidora Alimenticia , Município: Canoas, Região: 78402
+2024-10-24 11:39:55,051 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:56,617 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816957 HTTP/1.1" 201 97
+2024-10-24 11:39:56,618 - INFO - Lead atualizado com sucesso! ID: 18816957, Nome: Supermercado Padaria e Acougue Cm, Município: Canoas, Região: 78402
+2024-10-24 11:39:56,620 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:58,222 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816959 HTTP/1.1" 201 97
+2024-10-24 11:39:58,223 - INFO - Lead atualizado com sucesso! ID: 18816959, Nome: Supermercado Ekonomize, Município: Esteio, Região: 78402
+2024-10-24 11:39:58,224 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:39:59,570 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816960 HTTP/1.1" 201 97
+2024-10-24 11:39:59,570 - INFO - Lead atualizado com sucesso! ID: 18816960, Nome: Supermercado Mello, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:39:59,572 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:00,773 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816961 HTTP/1.1" 201 97
+2024-10-24 11:40:00,774 - INFO - Lead atualizado com sucesso! ID: 18816961, Nome: Marmitinhas Fit Industria e Comercio de Alimentos , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:40:00,775 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:02,297 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816962 HTTP/1.1" 201 97
+2024-10-24 11:40:02,298 - INFO - Lead atualizado com sucesso! ID: 18816962, Nome: Jedome Comercio de Alimentos , Município: Estância Velha, Região: 78402
+2024-10-24 11:40:02,300 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:04,373 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816963 HTTP/1.1" 201 97
+2024-10-24 11:40:04,373 - INFO - Lead atualizado com sucesso! ID: 18816963, Nome: Supermercado Andrea , Município: São Leopoldo, Região: 78402
+2024-10-24 11:40:04,375 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:05,891 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816964 HTTP/1.1" 201 97
+2024-10-24 11:40:05,892 - INFO - Lead atualizado com sucesso! ID: 18816964, Nome: Rocel Comercio de Generos Alimenticios , Município: São Leopoldo, Região: 78402
+2024-10-24 11:40:05,893 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:07,719 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816965 HTTP/1.1" 201 97
+2024-10-24 11:40:07,719 - INFO - Lead atualizado com sucesso! ID: 18816965, Nome: Mercado Panorama , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:40:07,721 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:09,340 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816966 HTTP/1.1" 201 97
+2024-10-24 11:40:09,341 - INFO - Lead atualizado com sucesso! ID: 18816966, Nome: Supermercado Nobre , Município: São Leopoldo, Região: 78402
+2024-10-24 11:40:09,342 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:11,021 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816967 HTTP/1.1" 201 97
+2024-10-24 11:40:11,021 - INFO - Lead atualizado com sucesso! ID: 18816967, Nome: Comercial Schneidershaus, Município: Estância Velha, Região: 78402
+2024-10-24 11:40:11,023 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:12,533 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816969 HTTP/1.1" 201 97
+2024-10-24 11:40:12,534 - INFO - Lead atualizado com sucesso! ID: 18816969, Nome: Elaine Gomes da Rosa, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:40:12,536 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:13,879 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816970 HTTP/1.1" 201 97
+2024-10-24 11:40:13,880 - INFO - Lead atualizado com sucesso! ID: 18816970, Nome: Comercial Avenida, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:40:13,882 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:15,580 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816971 HTTP/1.1" 201 97
+2024-10-24 11:40:15,580 - INFO - Lead atualizado com sucesso! ID: 18816971, Nome: Lojao do Alemao, Município: Canoas, Região: 78402
+2024-10-24 11:40:15,582 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:17,178 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816972 HTTP/1.1" 201 97
+2024-10-24 11:40:17,178 - INFO - Lead atualizado com sucesso! ID: 18816972, Nome: Mercado Machado, Município: São Leopoldo, Região: 78402
+2024-10-24 11:40:17,180 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:18,858 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816973 HTTP/1.1" 201 97
+2024-10-24 11:40:18,858 - INFO - Lead atualizado com sucesso! ID: 18816973, Nome: Recanto da Renata, Município: Canoas, Região: 78402
+2024-10-24 11:40:18,860 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:20,463 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816974 HTTP/1.1" 201 97
+2024-10-24 11:40:20,463 - INFO - Lead atualizado com sucesso! ID: 18816974, Nome: REDE FORT SBARDELOTTO, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:40:20,465 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:21,693 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816975 HTTP/1.1" 201 97
+2024-10-24 11:40:21,693 - INFO - Lead atualizado com sucesso! ID: 18816975, Nome: Mercado Mariano, Município: Esteio, Região: 78402
+2024-10-24 11:40:21,695 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:22,952 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816976 HTTP/1.1" 201 97
+2024-10-24 11:40:22,952 - INFO - Lead atualizado com sucesso! ID: 18816976, Nome: Super Shop-Supermercado , Município: Canoas, Região: 78402
+2024-10-24 11:40:22,954 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:24,500 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816977 HTTP/1.1" 201 97
+2024-10-24 11:40:24,500 - INFO - Lead atualizado com sucesso! ID: 18816977, Nome: Supermercado Estacao , Município: São Leopoldo, Região: 78402
+2024-10-24 11:40:24,502 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:25,667 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816978 HTTP/1.1" 201 97
+2024-10-24 11:40:25,668 - INFO - Lead atualizado com sucesso! ID: 18816978, Nome: Mercado Popular, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:40:25,669 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:27,497 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816979 HTTP/1.1" 201 97
+2024-10-24 11:40:27,498 - INFO - Lead atualizado com sucesso! ID: 18816979, Nome: Cestabrasil Comercio de Alimentos , Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:40:27,499 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:28,770 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816980 HTTP/1.1" 201 97
+2024-10-24 11:40:28,771 - INFO - Lead atualizado com sucesso! ID: 18816980, Nome: Mercado Pao de Mel, Município: Esteio, Região: 78402
+2024-10-24 11:40:28,772 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:29,842 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816981 HTTP/1.1" 400 89
+2024-10-24 11:40:29,844 - ERROR - Erro ao atualizar lead 18816981: 400 - {"error":{"code":"","message":"Lead already exists MOBILE - SUP NUNES,Comercial Nunes "}}
+2024-10-24 11:40:29,844 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:40:29,845 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:31,439 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816982 HTTP/1.1" 201 97
+2024-10-24 11:40:31,439 - INFO - Lead atualizado com sucesso! ID: 18816982, Nome: Super Mabel, Município: São Leopoldo, Região: 78402
+2024-10-24 11:40:31,441 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:32,737 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816983 HTTP/1.1" 201 97
+2024-10-24 11:40:32,737 - INFO - Lead atualizado com sucesso! ID: 18816983, Nome: Ofersul Estância Velha, Município: Estância Velha, Região: 78402
+2024-10-24 11:40:32,739 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:34,370 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816984 HTTP/1.1" 201 97
+2024-10-24 11:40:34,370 - INFO - Lead atualizado com sucesso! ID: 18816984, Nome: Supermercado Guajuviras , Município: Canoas, Região: 78402
+2024-10-24 11:40:34,372 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:35,694 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816985 HTTP/1.1" 201 97
+2024-10-24 11:40:35,695 - INFO - Lead atualizado com sucesso! ID: 18816985, Nome: Sacolao Real, Município: Esteio, Região: 78402
+2024-10-24 11:40:35,696 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:36,901 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816986 HTTP/1.1" 201 97
+2024-10-24 11:40:36,901 - INFO - Lead atualizado com sucesso! ID: 18816986, Nome: Mercado Sao Jorge, Município: Esteio, Região: 78402
+2024-10-24 11:40:36,903 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:38,131 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816987 HTTP/1.1" 201 97
+2024-10-24 11:40:38,132 - INFO - Lead atualizado com sucesso! ID: 18816987, Nome: Sacola Gaucha, Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:40:38,134 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:39,217 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816988 HTTP/1.1" 201 97
+2024-10-24 11:40:39,218 - INFO - Lead atualizado com sucesso! ID: 18816988, Nome: Sup São Jorge Vila Nova (São Leopoldo), Município: São Leopoldo, Região: 78402
+2024-10-24 11:40:39,220 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:40,839 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816989 HTTP/1.1" 201 97
+2024-10-24 11:40:40,839 - INFO - Lead atualizado com sucesso! ID: 18816989, Nome: Mercado e Acougue Santo Andre, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:40:40,841 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:42,511 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816990 HTTP/1.1" 201 97
+2024-10-24 11:40:42,511 - INFO - Lead atualizado com sucesso! ID: 18816990, Nome: Super Sul Supermercado, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:40:42,513 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:43,685 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816991 HTTP/1.1" 201 97
+2024-10-24 11:40:43,685 - INFO - Lead atualizado com sucesso! ID: 18816991, Nome: Asun Comercio de Generos Alimenticios , Município: Canoas, Região: 78402
+2024-10-24 11:40:43,687 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:45,296 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816992 HTTP/1.1" 201 97
+2024-10-24 11:40:45,297 - INFO - Lead atualizado com sucesso! ID: 18816992, Nome: Super Battistella, Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:40:45,299 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:46,892 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816993 HTTP/1.1" 201 97
+2024-10-24 11:40:46,894 - INFO - Lead atualizado com sucesso! ID: 18816993, Nome: Supermercado Costelao, Município: Estância Velha, Região: 78402
+2024-10-24 11:40:46,897 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:48,536 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816994 HTTP/1.1" 201 97
+2024-10-24 11:40:48,536 - INFO - Lead atualizado com sucesso! ID: 18816994, Nome: Sup Paulinho (NH), Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:40:48,538 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:49,682 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816995 HTTP/1.1" 201 97
+2024-10-24 11:40:49,683 - INFO - Lead atualizado com sucesso! ID: 18816995, Nome: Supermercado M. A., Município: Estância Velha, Região: 78402
+2024-10-24 11:40:49,684 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:51,390 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816996 HTTP/1.1" 201 97
+2024-10-24 11:40:51,391 - INFO - Lead atualizado com sucesso! ID: 18816996, Nome: Ls Mini Mercado e Mercearia Lacerda , Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:40:51,393 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:52,532 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816997 HTTP/1.1" 201 97
+2024-10-24 11:40:52,533 - INFO - Lead atualizado com sucesso! ID: 18816997, Nome: Mercado do Alemão, Município: São Leopoldo, Região: 78402
+2024-10-24 11:40:52,534 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:53,702 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816998 HTTP/1.1" 201 97
+2024-10-24 11:40:53,702 - INFO - Lead atualizado com sucesso! ID: 18816998, Nome: Supermercado Duleio, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:40:53,704 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:55,286 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18816999 HTTP/1.1" 201 97
+2024-10-24 11:40:55,287 - INFO - Lead atualizado com sucesso! ID: 18816999, Nome: Super Mano, Município: São Leopoldo, Região: 78402
+2024-10-24 11:40:55,288 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:56,934 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817000 HTTP/1.1" 201 97
+2024-10-24 11:40:56,934 - INFO - Lead atualizado com sucesso! ID: 18817000, Nome: Mercearia Rambo, Município: Estância Velha, Região: 78402
+2024-10-24 11:40:56,936 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:40:58,575 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817001 HTTP/1.1" 201 97
+2024-10-24 11:40:58,575 - INFO - Lead atualizado com sucesso! ID: 18817001, Nome: Unidasul Distribuidora Alimenticia , Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:40:58,577 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:00,173 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817003 HTTP/1.1" 201 97
+2024-10-24 11:41:00,173 - INFO - Lead atualizado com sucesso! ID: 18817003, Nome: Carrefour Comercio e Industria , Município: Esteio, Região: 78402
+2024-10-24 11:41:00,175 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:01,953 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817004 HTTP/1.1" 201 97
+2024-10-24 11:41:01,953 - INFO - Lead atualizado com sucesso! ID: 18817004, Nome: Ferga Alimentos , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:01,955 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:03,221 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817005 HTTP/1.1" 201 97
+2024-10-24 11:41:03,221 - INFO - Lead atualizado com sucesso! ID: 18817005, Nome: Mini Mercado Irmaos Ricci, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:03,223 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:04,777 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817006 HTTP/1.1" 201 97
+2024-10-24 11:41:04,777 - INFO - Lead atualizado com sucesso! ID: 18817006, Nome: Atacadao Das Carnes, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:04,779 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:05,951 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817007 HTTP/1.1" 201 97
+2024-10-24 11:41:05,951 - INFO - Lead atualizado com sucesso! ID: 18817007, Nome: Hiperbem Supermercados, Município: Canoas, Região: 78402
+2024-10-24 11:41:05,953 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:07,031 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817008 HTTP/1.1" 400 84
+2024-10-24 11:41:07,032 - ERROR - Erro ao atualizar lead 18817008: 400 - {"error":{"code":"","message":"Lead already exists Atacadao .,Atacadao .,Atacadao"}}
+2024-10-24 11:41:07,032 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:41:07,034 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:08,366 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817009 HTTP/1.1" 201 97
+2024-10-24 11:41:08,366 - INFO - Lead atualizado com sucesso! ID: 18817009, Nome: Super Decker Mais, Município: Estância Velha, Região: 78402
+2024-10-24 11:41:08,368 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:09,619 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817010 HTTP/1.1" 201 97
+2024-10-24 11:41:09,619 - INFO - Lead atualizado com sucesso! ID: 18817010, Nome: Super São Jorge (São Leo), Município: São Leopoldo, Região: 78402
+2024-10-24 11:41:09,621 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:11,226 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817011 HTTP/1.1" 201 97
+2024-10-24 11:41:11,227 - INFO - Lead atualizado com sucesso! ID: 18817011, Nome: Rede Avila Supermercados, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:11,228 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:12,798 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817012 HTTP/1.1" 201 97
+2024-10-24 11:41:12,798 - INFO - Lead atualizado com sucesso! ID: 18817012, Nome: Novo Varejo , Município: Canoas, Região: 78402
+2024-10-24 11:41:12,800 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:14,509 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817013 HTTP/1.1" 201 97
+2024-10-24 11:41:14,510 - INFO - Lead atualizado com sucesso! ID: 18817013, Nome: Supermercado Liberdade, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:14,511 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:16,237 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817014 HTTP/1.1" 201 97
+2024-10-24 11:41:16,238 - INFO - Lead atualizado com sucesso! ID: 18817014, Nome: Suplatt Mercado , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:16,240 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:17,952 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817015 HTTP/1.1" 201 97
+2024-10-24 11:41:17,953 - INFO - Lead atualizado com sucesso! ID: 18817015, Nome: Rosmma Comercio de Generos Alimenticios, Município: Canoas, Região: 78402
+2024-10-24 11:41:17,954 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:19,531 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817016 HTTP/1.1" 201 97
+2024-10-24 11:41:19,532 - INFO - Lead atualizado com sucesso! ID: 18817016, Nome: Leticia Pagliarini Ilama, Município: Canoas, Região: 78402
+2024-10-24 11:41:19,534 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:21,152 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817017 HTTP/1.1" 201 97
+2024-10-24 11:41:21,153 - INFO - Lead atualizado com sucesso! ID: 18817017, Nome: Supermercados Adoro, Município: Canoas, Região: 78402
+2024-10-24 11:41:21,155 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:22,904 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817019 HTTP/1.1" 201 97
+2024-10-24 11:41:22,904 - INFO - Lead atualizado com sucesso! ID: 18817019, Nome: Super Sao Jorge, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:22,906 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:24,639 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817020 HTTP/1.1" 201 97
+2024-10-24 11:41:24,639 - INFO - Lead atualizado com sucesso! ID: 18817020, Nome: Supermercados Formenton , Município: Canoas, Região: 78402
+2024-10-24 11:41:24,641 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:26,036 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817021 HTTP/1.1" 201 97
+2024-10-24 11:41:26,036 - INFO - Lead atualizado com sucesso! ID: 18817021, Nome: Viezzer & Cia , Município: Canoas, Região: 78402
+2024-10-24 11:41:26,038 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:27,664 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817022 HTTP/1.1" 201 97
+2024-10-24 11:41:27,664 - INFO - Lead atualizado com sucesso! ID: 18817022, Nome: Supermercado e Padaria Uniao , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:27,666 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:28,657 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817023 HTTP/1.1" 400 85
+2024-10-24 11:41:28,658 - ERROR - Erro ao atualizar lead 18817023: 400 - {"error":{"code":"","message":"Lead already exists Sup. Zortea,Supermercado Zortea"}}
+2024-10-24 11:41:28,659 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:41:28,660 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:30,249 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817024 HTTP/1.1" 201 97
+2024-10-24 11:41:30,250 - INFO - Lead atualizado com sucesso! ID: 18817024, Nome: Supermercado Machado, Município: Canoas, Região: 78402
+2024-10-24 11:41:30,252 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:31,459 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817025 HTTP/1.1" 201 97
+2024-10-24 11:41:31,459 - INFO - Lead atualizado com sucesso! ID: 18817025, Nome: Ricci Comercio de Cereais , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:31,461 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:33,006 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817026 HTTP/1.1" 201 97
+2024-10-24 11:41:33,006 - INFO - Lead atualizado com sucesso! ID: 18817026, Nome: Supermercado Menger, Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:41:33,008 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:34,436 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817028 HTTP/1.1" 201 97
+2024-10-24 11:41:34,437 - INFO - Lead atualizado com sucesso! ID: 18817028, Nome: Laner & Cia , Município: Canoas, Região: 78402
+2024-10-24 11:41:34,438 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:36,136 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817029 HTTP/1.1" 201 97
+2024-10-24 11:41:36,137 - INFO - Lead atualizado com sucesso! ID: 18817029, Nome: Mercado Charrua, Município: São Leopoldo, Região: 78402
+2024-10-24 11:41:36,139 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:37,480 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817030 HTTP/1.1" 201 97
+2024-10-24 11:41:37,480 - INFO - Lead atualizado com sucesso! ID: 18817030, Nome: Super Sao Jorge (Vicentina), Município: São Leopoldo, Região: 78402
+2024-10-24 11:41:37,482 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:39,027 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817031 HTTP/1.1" 201 97
+2024-10-24 11:41:39,028 - INFO - Lead atualizado com sucesso! ID: 18817031, Nome: Marcado Popular, Município: São Leopoldo, Região: 78402
+2024-10-24 11:41:39,029 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:40,356 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817033 HTTP/1.1" 201 97
+2024-10-24 11:41:40,356 - INFO - Lead atualizado com sucesso! ID: 18817033, Nome: Big Festa, Município: Canoas, Região: 78402
+2024-10-24 11:41:40,358 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:41,527 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817034 HTTP/1.1" 201 97
+2024-10-24 11:41:41,528 - INFO - Lead atualizado com sucesso! ID: 18817034, Nome: Mercado e Acougue Oliveira, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:41,529 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:42,788 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817035 HTTP/1.1" 201 97
+2024-10-24 11:41:42,789 - INFO - Lead atualizado com sucesso! ID: 18817035, Nome: Wms Supermercados do Brasil ., Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:42,790 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:44,142 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817036 HTTP/1.1" 201 97
+2024-10-24 11:41:44,143 - INFO - Lead atualizado com sucesso! ID: 18817036, Nome: Comercio de Alimentos Blf Esteio , Município: Esteio, Região: 78402
+2024-10-24 11:41:44,144 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:45,747 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817037 HTTP/1.1" 201 97
+2024-10-24 11:41:45,747 - INFO - Lead atualizado com sucesso! ID: 18817037, Nome: Lider Supermercado, Município: São Leopoldo, Região: 78402
+2024-10-24 11:41:45,749 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:47,356 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817038 HTTP/1.1" 201 97
+2024-10-24 11:41:47,356 - INFO - Lead atualizado com sucesso! ID: 18817038, Nome: Unidasul Distribuidora Alimenticia , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:47,358 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:48,593 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817039 HTTP/1.1" 201 97
+2024-10-24 11:41:48,593 - INFO - Lead atualizado com sucesso! ID: 18817039, Nome: Rodrigo Menger Me, Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:41:48,595 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:50,085 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817040 HTTP/1.1" 201 97
+2024-10-24 11:41:50,085 - INFO - Lead atualizado com sucesso! ID: 18817040, Nome: Supermercado Karine, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:50,087 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:51,595 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817041 HTTP/1.1" 201 97
+2024-10-24 11:41:51,595 - INFO - Lead atualizado com sucesso! ID: 18817041, Nome: Supermercado Mello (São Leopoldo), Município: São Leopoldo, Região: 78402
+2024-10-24 11:41:51,597 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:52,549 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817042 HTTP/1.1" 400 102
+2024-10-24 11:41:52,550 - ERROR - Erro ao atualizar lead 18817042: 400 - {"error":{"code":"","message":"Lead already exists B2C/CRM - S\u00c3O JORGE (OSANA),Super Sao Jorge"}}
+2024-10-24 11:41:52,551 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:41:52,553 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:53,795 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817043 HTTP/1.1" 201 97
+2024-10-24 11:41:53,795 - INFO - Lead atualizado com sucesso! ID: 18817043, Nome: Dia %, Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:41:53,797 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:55,200 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817044 HTTP/1.1" 201 97
+2024-10-24 11:41:55,201 - INFO - Lead atualizado com sucesso! ID: 18817044, Nome: Mercado  Santo Andre, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:55,202 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:56,478 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817045 HTTP/1.1" 201 97
+2024-10-24 11:41:56,478 - INFO - Lead atualizado com sucesso! ID: 18817045, Nome: Supermercado Vip, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:56,480 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:57,728 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817047 HTTP/1.1" 201 97
+2024-10-24 11:41:57,728 - INFO - Lead atualizado com sucesso! ID: 18817047, Nome: Regina Supermercado, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:41:57,730 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:41:58,884 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817048 HTTP/1.1" 201 97
+2024-10-24 11:41:58,884 - INFO - Lead atualizado com sucesso! ID: 18817048, Nome: Supermercado Estancia Velha, Município: Estância Velha, Região: 78402
+2024-10-24 11:41:58,886 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:00,528 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817049 HTTP/1.1" 201 97
+2024-10-24 11:42:00,530 - INFO - Lead atualizado com sucesso! ID: 18817049, Nome: Supermercado Pague Menos, Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:42:00,532 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:01,766 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817050 HTTP/1.1" 201 97
+2024-10-24 11:42:01,767 - INFO - Lead atualizado com sucesso! ID: 18817050, Nome: Nowheat Sl, Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:01,768 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:02,963 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817051 HTTP/1.1" 201 97
+2024-10-24 11:42:02,963 - INFO - Lead atualizado com sucesso! ID: 18817051, Nome: Viezzer & Cia , Município: Canoas, Região: 78402
+2024-10-24 11:42:02,964 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:03,856 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817052 HTTP/1.1" 400 248
+2024-10-24 11:42:03,858 - ERROR - Erro ao atualizar lead 18817052: 400 - {"error":{"code":"","message":"Lead already exists Companhia Zaffari Comercio e Industria,Companhia Zaffari Comercio e Industria,Companhia Zaffari Comercio e Industria,Companhia Zaffari Comercio e Industria,Companhia Zaffari Comercio e Industria"}}
+2024-10-24 11:42:03,858 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:42:03,859 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:05,451 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817054 HTTP/1.1" 201 97
+2024-10-24 11:42:05,451 - INFO - Lead atualizado com sucesso! ID: 18817054, Nome: Mercado SM Guajuviras, Município: Canoas, Região: 78402
+2024-10-24 11:42:05,453 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:06,660 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817055 HTTP/1.1" 201 97
+2024-10-24 11:42:06,660 - INFO - Lead atualizado com sucesso! ID: 18817055, Nome: Big Lanches, Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:06,662 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:08,330 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817056 HTTP/1.1" 201 97
+2024-10-24 11:42:08,331 - INFO - Lead atualizado com sucesso! ID: 18817056, Nome: Supermercado Andrea , Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:08,333 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:09,616 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817057 HTTP/1.1" 201 97
+2024-10-24 11:42:09,616 - INFO - Lead atualizado com sucesso! ID: 18817057, Nome: Super 7, Município: Canoas, Região: 78402
+2024-10-24 11:42:09,619 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:10,825 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817058 HTTP/1.1" 201 97
+2024-10-24 11:42:10,826 - INFO - Lead atualizado com sucesso! ID: 18817058, Nome: Romero & Carvalho Supermercado , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:42:10,828 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:12,368 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817059 HTTP/1.1" 201 97
+2024-10-24 11:42:12,368 - INFO - Lead atualizado com sucesso! ID: 18817059, Nome: Mercado Grisa, Município: Canoas, Região: 78402
+2024-10-24 11:42:12,371 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:13,973 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817060 HTTP/1.1" 201 97
+2024-10-24 11:42:13,973 - INFO - Lead atualizado com sucesso! ID: 18817060, Nome: Supermercado Ecomonia Sao Jose, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:42:13,975 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:15,265 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817061 HTTP/1.1" 201 97
+2024-10-24 11:42:15,266 - INFO - Lead atualizado com sucesso! ID: 18817061, Nome: Bitello Comercio e Representacoes , Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:15,268 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:16,153 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817062 HTTP/1.1" 400 84
+2024-10-24 11:42:16,154 - ERROR - Erro ao atualizar lead 18817062: 400 - {"error":{"code":"","message":"Lead already exists Atacadao .,Atacadao .,Atacadao"}}
+2024-10-24 11:42:16,154 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:42:16,156 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:17,420 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817063 HTTP/1.1" 201 97
+2024-10-24 11:42:17,421 - INFO - Lead atualizado com sucesso! ID: 18817063, Nome: Supermercado Bosque, Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:17,423 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:18,874 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817064 HTTP/1.1" 201 97
+2024-10-24 11:42:18,874 - INFO - Lead atualizado com sucesso! ID: 18817064, Nome: Super Guarani , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:42:18,876 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:20,148 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817065 HTTP/1.1" 201 97
+2024-10-24 11:42:20,149 - INFO - Lead atualizado com sucesso! ID: 18817065, Nome: Teresa Maria Heck, Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:20,151 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:21,398 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817066 HTTP/1.1" 201 97
+2024-10-24 11:42:21,398 - INFO - Lead atualizado com sucesso! ID: 18817066, Nome: Mercado Campo Grande, Município: Estância Velha, Região: 78402
+2024-10-24 11:42:21,400 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:22,336 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817067 HTTP/1.1" 400 92
+2024-10-24 11:42:22,337 - ERROR - Erro ao atualizar lead 18817067: 400 - {"error":{"code":"","message":"Lead already exists Pr Super Mercado ,Bom D+ Supermercados"}}
+2024-10-24 11:42:22,337 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:42:22,339 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:24,107 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817068 HTTP/1.1" 201 97
+2024-10-24 11:42:24,107 - INFO - Lead atualizado com sucesso! ID: 18817068, Nome: Supermercado Glorinha , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:42:24,109 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:25,516 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817069 HTTP/1.1" 201 97
+2024-10-24 11:42:25,516 - INFO - Lead atualizado com sucesso! ID: 18817069, Nome: Super Economix, Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:25,518 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:27,018 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817070 HTTP/1.1" 201 97
+2024-10-24 11:42:27,019 - INFO - Lead atualizado com sucesso! ID: 18817070, Nome: Mercados Lopes, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:42:27,020 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:28,534 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817071 HTTP/1.1" 201 97
+2024-10-24 11:42:28,535 - INFO - Lead atualizado com sucesso! ID: 18817071, Nome: Sjl Comercio de Alimentos , Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:28,537 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:30,103 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817072 HTTP/1.1" 201 97
+2024-10-24 11:42:30,104 - INFO - Lead atualizado com sucesso! ID: 18817072, Nome: Companhia Zaffari Comercio e Industria, Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:30,105 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:31,230 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817073 HTTP/1.1" 201 97
+2024-10-24 11:42:31,230 - INFO - Lead atualizado com sucesso! ID: 18817073, Nome: Mercado Paraiso, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:42:31,232 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:32,345 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817075 HTTP/1.1" 201 97
+2024-10-24 11:42:32,345 - INFO - Lead atualizado com sucesso! ID: 18817075, Nome: Super Sao Jorge, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:42:32,347 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:33,854 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817076 HTTP/1.1" 201 97
+2024-10-24 11:42:33,855 - INFO - Lead atualizado com sucesso! ID: 18817076, Nome: Super Mercado Unimaxi , Município: Canoas, Região: 78402
+2024-10-24 11:42:33,856 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:35,449 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817077 HTTP/1.1" 201 97
+2024-10-24 11:42:35,449 - INFO - Lead atualizado com sucesso! ID: 18817077, Nome: Mega Barato, Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:35,451 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:36,827 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817078 HTTP/1.1" 201 97
+2024-10-24 11:42:36,827 - INFO - Lead atualizado com sucesso! ID: 18817078, Nome: Supermercado Viezzer, Município: Canoas, Região: 78402
+2024-10-24 11:42:36,829 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:38,143 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817079 HTTP/1.1" 201 97
+2024-10-24 11:42:38,144 - INFO - Lead atualizado com sucesso! ID: 18817079, Nome: Mercado Alt , Município: Canoas, Região: 78402
+2024-10-24 11:42:38,145 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:39,344 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817080 HTTP/1.1" 201 97
+2024-10-24 11:42:39,344 - INFO - Lead atualizado com sucesso! ID: 18817080, Nome: Supermercado Vila Nova, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:42:39,346 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:40,484 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817081 HTTP/1.1" 201 97
+2024-10-24 11:42:40,484 - INFO - Lead atualizado com sucesso! ID: 18817081, Nome: Alimac Supermercado, Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:40,486 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:41,774 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817082 HTTP/1.1" 201 97
+2024-10-24 11:42:41,774 - INFO - Lead atualizado com sucesso! ID: 18817082, Nome: Mercado Mais Economico, Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:41,776 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:42,980 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817083 HTTP/1.1" 201 97
+2024-10-24 11:42:42,980 - INFO - Lead atualizado com sucesso! ID: 18817083, Nome: Super Seberi, Município: Canoas, Região: 78402
+2024-10-24 11:42:42,982 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:44,086 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817084 HTTP/1.1" 201 97
+2024-10-24 11:42:44,087 - INFO - Lead atualizado com sucesso! ID: 18817084, Nome: Fruteira do Nilson, Município: Esteio, Região: 78402
+2024-10-24 11:42:44,089 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:45,262 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817085 HTTP/1.1" 201 97
+2024-10-24 11:42:45,263 - INFO - Lead atualizado com sucesso! ID: 18817085, Nome: Sacolao e Minimercado Gaisel, Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:45,265 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:46,782 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817086 HTTP/1.1" 201 97
+2024-10-24 11:42:46,782 - INFO - Lead atualizado com sucesso! ID: 18817086, Nome: Supermercado Guaju , Município: Canoas, Região: 78402
+2024-10-24 11:42:46,784 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:48,075 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817087 HTTP/1.1" 201 97
+2024-10-24 11:42:48,075 - INFO - Lead atualizado com sucesso! ID: 18817087, Nome: Viezzer & Cia , Município: Canoas, Região: 78402
+2024-10-24 11:42:48,077 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:49,372 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817088 HTTP/1.1" 201 97
+2024-10-24 11:42:49,373 - INFO - Lead atualizado com sucesso! ID: 18817088, Nome: Padaria e Confeitaria Quatro Colonias, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:42:49,374 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:50,617 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817089 HTTP/1.1" 201 97
+2024-10-24 11:42:50,618 - INFO - Lead atualizado com sucesso! ID: 18817089, Nome: Supermercado Sao Jose, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:42:50,619 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:51,859 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817090 HTTP/1.1" 201 97
+2024-10-24 11:42:51,859 - INFO - Lead atualizado com sucesso! ID: 18817090, Nome: Rede Avila Supermercados, Município: São Leopoldo, Região: 78402
+2024-10-24 11:42:51,861 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:53,340 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817091 HTTP/1.1" 201 97
+2024-10-24 11:42:53,340 - INFO - Lead atualizado com sucesso! ID: 18817091, Nome: Jv Supermercados, Município: Esteio, Região: 78402
+2024-10-24 11:42:53,342 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:54,639 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817092 HTTP/1.1" 201 97
+2024-10-24 11:42:54,639 - INFO - Lead atualizado com sucesso! ID: 18817092, Nome: Bazar Rodrigues, Município: Canoas, Região: 78402
+2024-10-24 11:42:54,641 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:55,527 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817093 HTTP/1.1" 400 121
+2024-10-24 11:42:55,528 - ERROR - Erro ao atualizar lead 18817093: 400 - {"error":{"code":"","message":"Lead already exists Vancosty Comercio e Distribuicao ,Vancosty Comercio e Distribuicao "}}
+2024-10-24 11:42:55,529 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:42:55,530 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:56,712 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817094 HTTP/1.1" 201 97
+2024-10-24 11:42:56,712 - INFO - Lead atualizado com sucesso! ID: 18817094, Nome: Super Backes, Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:42:56,714 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:57,596 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817095 HTTP/1.1" 400 115
+2024-10-24 11:42:57,598 - ERROR - Erro ao atualizar lead 18817095: 400 - {"error":{"code":"","message":"Lead already exists Dia Apos Dia Supermercado ,Novo Dia,Roca Flores Supermercado "}}
+2024-10-24 11:42:57,598 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:42:57,600 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:58,834 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817096 HTTP/1.1" 201 97
+2024-10-24 11:42:58,835 - INFO - Lead atualizado com sucesso! ID: 18817096, Nome: Supermercado Bom Dia, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:42:58,836 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:42:59,995 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817097 HTTP/1.1" 201 97
+2024-10-24 11:42:59,995 - INFO - Lead atualizado com sucesso! ID: 18817097, Nome: Supermercado Nogueira, Município: Estância Velha, Região: 78402
+2024-10-24 11:42:59,997 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:01,008 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817098 HTTP/1.1" 400 92
+2024-10-24 11:43:01,009 - ERROR - Erro ao atualizar lead 18817098: 400 - {"error":{"code":"","message":"Lead already exists Pr Super Mercado ,Bom D+ Supermercados"}}
+2024-10-24 11:43:01,009 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:43:01,011 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:02,231 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817099 HTTP/1.1" 201 97
+2024-10-24 11:43:02,232 - INFO - Lead atualizado com sucesso! ID: 18817099, Nome: Rocel Comercio de Generos Alimenticios , Município: Estância Velha, Região: 78402
+2024-10-24 11:43:02,234 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:03,641 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817100 HTTP/1.1" 201 97
+2024-10-24 11:43:03,641 - INFO - Lead atualizado com sucesso! ID: 18817100, Nome: Jv Supermercados , Município: Canoas, Região: 78402
+2024-10-24 11:43:03,643 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:04,883 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817101 HTTP/1.1" 201 97
+2024-10-24 11:43:04,883 - INFO - Lead atualizado com sucesso! ID: 18817101, Nome: Rubaski Atacado, Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:43:04,885 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:12,240 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817102 HTTP/1.1" 201 97
+2024-10-24 11:43:12,241 - INFO - Lead atualizado com sucesso! ID: 18817102, Nome: Glf Alimentos, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:12,242 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:13,901 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817103 HTTP/1.1" 201 97
+2024-10-24 11:43:13,901 - INFO - Lead atualizado com sucesso! ID: 18817103, Nome: Mercado Sao Borjense, Município: Canoas, Região: 78402
+2024-10-24 11:43:13,903 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:15,375 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817104 HTTP/1.1" 201 97
+2024-10-24 11:43:15,375 - INFO - Lead atualizado com sucesso! ID: 18817104, Nome: Viezzer & Cia , Município: Canoas, Região: 78402
+2024-10-24 11:43:15,377 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:16,879 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817105 HTTP/1.1" 201 97
+2024-10-24 11:43:16,880 - INFO - Lead atualizado com sucesso! ID: 18817105, Nome: Asun Supermercados, Município: Estância Velha, Região: 78402
+2024-10-24 11:43:16,882 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:18,393 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817106 HTTP/1.1" 201 97
+2024-10-24 11:43:18,393 - INFO - Lead atualizado com sucesso! ID: 18817106, Nome: Mercado do Juca , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:18,395 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:19,860 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817107 HTTP/1.1" 201 97
+2024-10-24 11:43:19,861 - INFO - Lead atualizado com sucesso! ID: 18817107, Nome: Supermercados Formenton , Município: Canoas, Região: 78402
+2024-10-24 11:43:19,862 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:20,982 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817108 HTTP/1.1" 201 97
+2024-10-24 11:43:20,982 - INFO - Lead atualizado com sucesso! ID: 18817108, Nome: Comercial de Alimentos Ricci , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:20,984 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:22,182 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817109 HTTP/1.1" 201 97
+2024-10-24 11:43:22,183 - INFO - Lead atualizado com sucesso! ID: 18817109, Nome: Sup Vogel  (FL Boa Saúde), Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:22,184 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:23,770 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817110 HTTP/1.1" 201 97
+2024-10-24 11:43:23,771 - INFO - Lead atualizado com sucesso! ID: 18817110, Nome: Super Zanardi, Município: Canoas, Região: 78402
+2024-10-24 11:43:23,772 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:25,331 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817111 HTTP/1.1" 201 97
+2024-10-24 11:43:25,331 - INFO - Lead atualizado com sucesso! ID: 18817111, Nome: Rae Supermercado Superbom, Município: Estância Velha, Região: 78402
+2024-10-24 11:43:25,333 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:26,881 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817112 HTTP/1.1" 201 97
+2024-10-24 11:43:26,881 - INFO - Lead atualizado com sucesso! ID: 18817112, Nome: V.S. Supermercado , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:26,884 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:27,999 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817113 HTTP/1.1" 201 97
+2024-10-24 11:43:27,999 - INFO - Lead atualizado com sucesso! ID: 18817113, Nome: Supermercados Osana, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:28,001 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:29,569 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817114 HTTP/1.1" 201 97
+2024-10-24 11:43:29,569 - INFO - Lead atualizado com sucesso! ID: 18817114, Nome: Mercado São Jorge Canudos, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:29,571 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:31,222 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817115 HTTP/1.1" 201 97
+2024-10-24 11:43:31,223 - INFO - Lead atualizado com sucesso! ID: 18817115, Nome: Marcelo Pereira, Município: São Leopoldo, Região: 78402
+2024-10-24 11:43:31,225 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:32,454 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817116 HTTP/1.1" 201 97
+2024-10-24 11:43:32,454 - INFO - Lead atualizado com sucesso! ID: 18817116, Nome: Minuano Supermercado , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:32,456 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:34,123 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817117 HTTP/1.1" 201 97
+2024-10-24 11:43:34,123 - INFO - Lead atualizado com sucesso! ID: 18817117, Nome: Ponto Das Padarias , Município: São Leopoldo, Região: 78402
+2024-10-24 11:43:34,125 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:35,728 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817118 HTTP/1.1" 201 97
+2024-10-24 11:43:35,729 - INFO - Lead atualizado com sucesso! ID: 18817118, Nome: Mercado Emanuel, Município: Canoas, Região: 78402
+2024-10-24 11:43:35,731 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:37,289 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817119 HTTP/1.1" 201 97
+2024-10-24 11:43:37,289 - INFO - Lead atualizado com sucesso! ID: 18817119, Nome: Mercado Sao Jorge Kephas, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:37,291 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:38,618 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817120 HTTP/1.1" 201 97
+2024-10-24 11:43:38,618 - INFO - Lead atualizado com sucesso! ID: 18817120, Nome: Graziela Morlin, Município: São Leopoldo, Região: 78402
+2024-10-24 11:43:38,620 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:39,848 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817121 HTTP/1.1" 201 97
+2024-10-24 11:43:39,848 - INFO - Lead atualizado com sucesso! ID: 18817121, Nome: Superjay Supermercado, Município: Esteio, Região: 78402
+2024-10-24 11:43:39,850 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:41,014 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817122 HTTP/1.1" 201 97
+2024-10-24 11:43:41,014 - INFO - Lead atualizado com sucesso! ID: 18817122, Nome: Sup Borges (Rede Fort), Município: São Leopoldo, Região: 78402
+2024-10-24 11:43:41,016 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:42,653 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817123 HTTP/1.1" 201 97
+2024-10-24 11:43:42,653 - INFO - Lead atualizado com sucesso! ID: 18817123, Nome: Itapema Comercio de Mercadorias , Município: São Leopoldo, Região: 78402
+2024-10-24 11:43:42,655 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:43,912 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817124 HTTP/1.1" 201 97
+2024-10-24 11:43:43,912 - INFO - Lead atualizado com sucesso! ID: 18817124, Nome: Mielcke & Nedel , Município: Canoas, Região: 78402
+2024-10-24 11:43:43,914 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:45,447 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817125 HTTP/1.1" 201 97
+2024-10-24 11:43:45,448 - INFO - Lead atualizado com sucesso! ID: 18817125, Nome: Supercomercial Rocha , Município: Canoas, Região: 78402
+2024-10-24 11:43:45,450 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:46,805 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817126 HTTP/1.1" 201 97
+2024-10-24 11:43:46,805 - INFO - Lead atualizado com sucesso! ID: 18817126, Nome: M. Massim Pinto & Cia., Município: Canoas, Região: 78402
+2024-10-24 11:43:46,808 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:48,182 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817127 HTTP/1.1" 201 97
+2024-10-24 11:43:48,183 - INFO - Lead atualizado com sucesso! ID: 18817127, Nome: Mercado Vasconcelos Jardim, Município: São Leopoldo, Região: 78402
+2024-10-24 11:43:48,185 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:49,646 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817128 HTTP/1.1" 201 97
+2024-10-24 11:43:49,646 - INFO - Lead atualizado com sucesso! ID: 18817128, Nome: Unidasul Distribuidora Alimenticia , Município: São Leopoldo, Região: 78402
+2024-10-24 11:43:49,648 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:51,349 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817129 HTTP/1.1" 201 97
+2024-10-24 11:43:51,349 - INFO - Lead atualizado com sucesso! ID: 18817129, Nome: Mercado Saffra, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:51,351 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:52,925 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817130 HTTP/1.1" 201 97
+2024-10-24 11:43:52,926 - INFO - Lead atualizado com sucesso! ID: 18817130, Nome: Ofersul Supermercado, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:52,928 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:54,128 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817131 HTTP/1.1" 201 97
+2024-10-24 11:43:54,129 - INFO - Lead atualizado com sucesso! ID: 18817131, Nome: Supermercado Sao Jorge, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:54,132 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:55,417 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817132 HTTP/1.1" 201 97
+2024-10-24 11:43:55,418 - INFO - Lead atualizado com sucesso! ID: 18817132, Nome: Supermercado Icaro, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:43:55,419 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:56,897 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817133 HTTP/1.1" 201 97
+2024-10-24 11:43:56,897 - INFO - Lead atualizado com sucesso! ID: 18817133, Nome: Supermercados Bom Preco, Município: Sapucaia do Sul, Região: 78402
+2024-10-24 11:43:56,899 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:58,034 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817134 HTTP/1.1" 201 97
+2024-10-24 11:43:58,034 - INFO - Lead atualizado com sucesso! ID: 18817134, Nome: Unidasul Distribuidora Alimenticia , Município: Canoas, Região: 78402
+2024-10-24 11:43:58,036 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:43:59,324 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817135 HTTP/1.1" 201 97
+2024-10-24 11:43:59,324 - INFO - Lead atualizado com sucesso! ID: 18817135, Nome: Mercado Portugal, Município: Estância Velha, Região: 78402
+2024-10-24 11:43:59,326 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:00,915 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817136 HTTP/1.1" 201 97
+2024-10-24 11:44:00,915 - INFO - Lead atualizado com sucesso! ID: 18817136, Nome: Vavo Comercio de Alimentos , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:44:00,918 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:02,550 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817138 HTTP/1.1" 201 97
+2024-10-24 11:44:02,550 - INFO - Lead atualizado com sucesso! ID: 18817138, Nome: Mercado e Acougue Santo Andre, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:44:02,552 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:03,727 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817139 HTTP/1.1" 201 97
+2024-10-24 11:44:03,728 - INFO - Lead atualizado com sucesso! ID: 18817139, Nome: A. J. Flores - Supermercados, Município: Canoas, Região: 78402
+2024-10-24 11:44:03,730 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:05,173 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817140 HTTP/1.1" 201 97
+2024-10-24 11:44:05,174 - INFO - Lead atualizado com sucesso! ID: 18817140, Nome: Supermercado Esquina da Sorte, Município: Canoas, Região: 78402
+2024-10-24 11:44:05,176 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:06,454 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817141 HTTP/1.1" 201 97
+2024-10-24 11:44:06,454 - INFO - Lead atualizado com sucesso! ID: 18817141, Nome: Rede Polo, Município: Canoas, Região: 78402
+2024-10-24 11:44:06,456 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:08,058 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817142 HTTP/1.1" 201 97
+2024-10-24 11:44:08,059 - INFO - Lead atualizado com sucesso! ID: 18817142, Nome: Mercado Lopes, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:44:08,060 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:09,439 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817143 HTTP/1.1" 201 97
+2024-10-24 11:44:09,440 - INFO - Lead atualizado com sucesso! ID: 18817143, Nome: Mercado do Bosque, Município: São Leopoldo, Região: 78402
+2024-10-24 11:44:09,441 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:11,068 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817144 HTTP/1.1" 201 97
+2024-10-24 11:44:11,068 - INFO - Lead atualizado com sucesso! ID: 18817144, Nome: Superrs Supermercado , Município: Canoas, Região: 78402
+2024-10-24 11:44:11,070 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:12,605 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817145 HTTP/1.1" 201 97
+2024-10-24 11:44:12,605 - INFO - Lead atualizado com sucesso! ID: 18817145, Nome: Supermercado Martinelli , Município: São Leopoldo, Região: 78402
+2024-10-24 11:44:12,607 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:14,179 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817146 HTTP/1.1" 201 97
+2024-10-24 11:44:14,180 - INFO - Lead atualizado com sucesso! ID: 18817146, Nome: Supermercados Formenton , Município: Canoas, Região: 78402
+2024-10-24 11:44:14,182 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:15,515 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817147 HTTP/1.1" 201 97
+2024-10-24 11:44:15,515 - INFO - Lead atualizado com sucesso! ID: 18817147, Nome: Rsl Supermercado, Município: Canoas, Região: 78402
+2024-10-24 11:44:15,517 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:16,727 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817148 HTTP/1.1" 201 97
+2024-10-24 11:44:16,727 - INFO - Lead atualizado com sucesso! ID: 18817148, Nome: Mercado Saft, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:44:16,729 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:17,818 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18817149 HTTP/1.1" 400 123
+2024-10-24 11:44:17,819 - ERROR - Erro ao atualizar lead 18817149: 400 - {"error":{"code":"","message":"Lead already exists Disrafe Distribuidora de Alimentos,Disrafe Distribuidora de Alimentos"}}
+2024-10-24 11:44:17,819 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:44:17,821 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:19,207 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18914440 HTTP/1.1" 201 97
+2024-10-24 11:44:19,208 - INFO - Lead atualizado com sucesso! ID: 18914440, Nome: Frederico Supermercados, Município: Paverama, Região: 78404
+2024-10-24 11:44:19,209 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:20,387 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18961309 HTTP/1.1" 201 97
+2024-10-24 11:44:20,388 - INFO - Lead atualizado com sucesso! ID: 18961309, Nome: Supermercado Econômico, Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:44:20,389 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:21,639 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18969547 HTTP/1.1" 201 97
+2024-10-24 11:44:21,640 - INFO - Lead atualizado com sucesso! ID: 18969547, Nome: Capa Supermercados Ltda (Unisuper Sta Rita), Município: Nova Santa Rita, Região: 78402
+2024-10-24 11:44:21,642 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:23,184 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18971997 HTTP/1.1" 201 97
+2024-10-24 11:44:23,184 - INFO - Lead atualizado com sucesso! ID: 18971997, Nome: Super Ivoti, Município: Ivoti, Região: 78402
+2024-10-24 11:44:23,186 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:24,501 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/18977943 HTTP/1.1" 201 97
+2024-10-24 11:44:24,501 - INFO - Lead atualizado com sucesso! ID: 18977943, Nome: Casa dos Salvados, Município: Porto Alegre, Região: 78399
+2024-10-24 11:44:24,503 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:26,175 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19196445 HTTP/1.1" 201 97
+2024-10-24 11:44:26,176 - INFO - Lead atualizado com sucesso! ID: 19196445, Nome: SUPER SÃO PEDRO, Município: Tramandaí, Região: 78408
+2024-10-24 11:44:26,177 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:27,805 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19236100 HTTP/1.1" 201 97
+2024-10-24 11:44:27,806 - INFO - Lead atualizado com sucesso! ID: 19236100, Nome: Supermercado Ideal, Município: Getúlio Vargas, Região: 78423
+2024-10-24 11:44:27,807 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:29,250 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19267728 HTTP/1.1" 201 97
+2024-10-24 11:44:29,250 - INFO - Lead atualizado com sucesso! ID: 19267728, Nome: Supermercado Ponto Novo, Município: Tramandaí, Região: 78408
+2024-10-24 11:44:29,250 - WARNING - Lead ID 19298254 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,250 - WARNING - Lead ID 19298286 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298577 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298701 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298702 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298704 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298705 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298707 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298708 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298709 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298710 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298711 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298712 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298713 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298714 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298715 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298716 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298717 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298718 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298719 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298720 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298721 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298722 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298723 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298724 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298725 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298726 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298727 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298728 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298729 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298730 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298731 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,251 - WARNING - Lead ID 19298732 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298734 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298735 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298736 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298737 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298738 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298739 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298740 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298741 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298742 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298743 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298744 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298745 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298746 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298747 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298748 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298749 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298751 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298752 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298753 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298754 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298755 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298756 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298757 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298758 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298759 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298761 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298762 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298763 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298764 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298765 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298766 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298767 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,252 - WARNING - Lead ID 19298768 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298769 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298770 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298772 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298773 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298774 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298776 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298777 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298778 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298779 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298780 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298781 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298783 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298785 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298786 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298787 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298788 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298790 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298791 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298792 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298793 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298794 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298795 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298796 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298797 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298798 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298799 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298800 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298801 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298802 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298803 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298804 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,253 - WARNING - Lead ID 19298805 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298806 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298807 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298808 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298809 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298810 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298811 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298812 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298813 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298814 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298815 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298816 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298817 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298818 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298819 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298820 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298821 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298822 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298823 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298824 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298825 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298826 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298827 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298828 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298829 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298831 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298832 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298833 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298834 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298835 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298836 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298837 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298838 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,254 - WARNING - Lead ID 19298839 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,255 - WARNING - Lead ID 19298840 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,255 - WARNING - Lead ID 19298841 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,255 - WARNING - Lead ID 19298842 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,255 - WARNING - Lead ID 19298843 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,255 - WARNING - Lead ID 19298846 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,255 - WARNING - Lead ID 19298847 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,255 - WARNING - Lead ID 19298848 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,255 - WARNING - Lead ID 19303592 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,255 - WARNING - Lead ID 19335531 não possui cidade definida. Ignorando.
+2024-10-24 11:44:29,256 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:30,351 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19367799 HTTP/1.1" 400 123
+2024-10-24 11:44:30,353 - ERROR - Erro ao atualizar lead 19367799: 400 - {"error":{"code":"","message":"Lead already exists Disrafe Distribuidora de Alimentos,Disrafe Distribuidora de Alimentos"}}
+2024-10-24 11:44:30,353 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78402,
+                        "value": "Vale dos Sinos (R1)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:44:30,353 - WARNING - Lead ID 19367841 não possui cidade definida. Ignorando.
+2024-10-24 11:44:30,353 - WARNING - Lead ID 19378467 não possui cidade definida. Ignorando.
+2024-10-24 11:44:30,354 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:32,138 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19400513 HTTP/1.1" 201 97
+2024-10-24 11:44:32,138 - INFO - Lead atualizado com sucesso! ID: 19400513, Nome: Cooperativa Ouro do Sul, Município: Harmonia, Região: 78401
+2024-10-24 11:44:32,140 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:33,423 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19469219 HTTP/1.1" 201 97
+2024-10-24 11:44:33,423 - INFO - Lead atualizado com sucesso! ID: 19469219, Nome: MEGA 1,99, Município: Cidreira, Região: 78408
+2024-10-24 11:44:33,423 - WARNING - Lead ID 19521759 não possui cidade definida. Ignorando.
+2024-10-24 11:44:33,423 - WARNING - Lead ID 19521902 não possui cidade definida. Ignorando.
+2024-10-24 11:44:33,423 - WARNING - Lead ID 19522085 não possui cidade definida. Ignorando.
+2024-10-24 11:44:33,423 - WARNING - Lead ID 19524595 não possui cidade definida. Ignorando.
+2024-10-24 11:44:33,423 - WARNING - Lead ID 19537731 não possui cidade definida. Ignorando.
+2024-10-24 11:44:33,423 - WARNING - Lead ID 19537946 não possui cidade definida. Ignorando.
+2024-10-24 11:44:33,425 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:35,066 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19539607 HTTP/1.1" 201 97
+2024-10-24 11:44:35,067 - INFO - Lead atualizado com sucesso! ID: 19539607, Nome: Mercado Central, Município: Júlio de Castilhos, Região: 78417
+2024-10-24 11:44:35,068 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:36,605 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19541061 HTTP/1.1" 201 97
+2024-10-24 11:44:36,606 - INFO - Lead atualizado com sucesso! ID: 19541061, Nome: A M D M Imobiliaria , Município: Novo Hamburgo, Região: 78402
+2024-10-24 11:44:36,608 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:37,947 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19549178 HTTP/1.1" 201 97
+2024-10-24 11:44:37,948 - INFO - Lead atualizado com sucesso! ID: 19549178, Nome: MOBILE - RCM SUPERMERCADO (DO SUL), Município: Arroio do Meio, Região: 78404
+2024-10-24 11:44:37,950 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:39,215 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19591309 HTTP/1.1" 201 97
+2024-10-24 11:44:39,215 - INFO - Lead atualizado com sucesso! ID: 19591309, Nome: VIDA VIVA SUPERMERCADOS LTDA, Município: Canoas, Região: 78402
+2024-10-24 11:44:39,215 - WARNING - Lead ID 19594569 não possui cidade definida. Ignorando.
+2024-10-24 11:44:39,217 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:40,825 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19635110 HTTP/1.1" 201 97
+2024-10-24 11:44:40,825 - INFO - Lead atualizado com sucesso! ID: 19635110, Nome: Hortifruti Bom Gosto, Município: Santo Antônio da Patrulha, Região: 78399
+2024-10-24 11:44:40,826 - WARNING - Região não encontrada para o município: Palhoça
+2024-10-24 11:44:40,826 - WARNING - Lead ID 19694573 não possui cidade definida. Ignorando.
+2024-10-24 11:44:40,827 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:42,574 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/19783096 HTTP/1.1" 201 97
+2024-10-24 11:44:42,574 - INFO - Lead atualizado com sucesso! ID: 19783096, Nome: Super Fill, Município: Cachoeirinha, Região: 78399
+2024-10-24 11:44:42,576 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:43,858 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/20116099 HTTP/1.1" 201 97
+2024-10-24 11:44:43,859 - INFO - Lead atualizado com sucesso! ID: 20116099, Nome: Coutinho Embalagens, Município: Sobradinho, Região: 78403
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20116253 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20124757 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20131350 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20232429 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20747560 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20747589 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20747619 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20747636 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20747639 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20747641 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20747647 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20747655 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,859 - WARNING - Lead ID 20747658 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,860 - WARNING - Lead ID 20747661 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,860 - WARNING - Lead ID 20747675 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,860 - WARNING - Lead ID 20747703 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,860 - WARNING - Lead ID 20747705 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,860 - WARNING - Lead ID 20747718 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,860 - WARNING - Lead ID 20747749 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,860 - WARNING - Lead ID 20747750 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,860 - WARNING - Lead ID 20843885 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,860 - WARNING - Lead ID 20850594 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,860 - WARNING - Lead ID 20905820 não possui cidade definida. Ignorando.
+2024-10-24 11:44:43,861 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:45,131 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21001155 HTTP/1.1" 201 97
+2024-10-24 11:44:45,131 - INFO - Lead atualizado com sucesso! ID: 21001155, Nome: Super Cruzeiro, Município: Porto Alegre, Região: 78399
+2024-10-24 11:44:45,133 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:46,990 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278589 HTTP/1.1" 201 97
+2024-10-24 11:44:46,991 - INFO - Lead atualizado com sucesso! ID: 21278589, Nome: Supermercado Fatima, Município: Passo Fundo, Região: 78424
+2024-10-24 11:44:46,993 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:48,253 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278590 HTTP/1.1" 201 97
+2024-10-24 11:44:48,253 - INFO - Lead atualizado com sucesso! ID: 21278590, Nome: Fruteira do Petti, Município: Passo Fundo, Região: 78424
+2024-10-24 11:44:48,255 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:49,868 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278591 HTTP/1.1" 201 97
+2024-10-24 11:44:49,869 - INFO - Lead atualizado com sucesso! ID: 21278591, Nome: Comercial de Alimentos Pertille , Município: Carazinho, Região: 78424
+2024-10-24 11:44:49,871 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:50,858 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278592 HTTP/1.1" 400 144
+2024-10-24 11:44:50,860 - ERROR - Erro ao atualizar lead 21278592: 400 - {"error":{"code":"","message":"Lead already exists Stok Center,Stok Center,Stok Center,Comercial Zaffari ,Stok Center,Stok Center,Stok Center"}}
+2024-10-24 11:44:50,860 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78424,
+                        "value": "Produção (R9)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:44:50,861 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:52,198 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278593 HTTP/1.1" 201 97
+2024-10-24 11:44:52,199 - INFO - Lead atualizado com sucesso! ID: 21278593, Nome: Compre Bem, Município: Marau, Região: 78424
+2024-10-24 11:44:52,201 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:53,426 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278594 HTTP/1.1" 201 97
+2024-10-24 11:44:53,427 - INFO - Lead atualizado com sucesso! ID: 21278594, Nome: Mercado/bazer/lavandeiria Marafon, Município: Casca, Região: 78424
+2024-10-24 11:44:53,429 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:54,563 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278595 HTTP/1.1" 201 97
+2024-10-24 11:44:54,563 - INFO - Lead atualizado com sucesso! ID: 21278595, Nome: Mercado Scharlau, Município: Carazinho, Região: 78424
+2024-10-24 11:44:54,565 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:55,995 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278596 HTTP/1.1" 201 97
+2024-10-24 11:44:55,995 - INFO - Lead atualizado com sucesso! ID: 21278596, Nome: Juliano de Almeida Xavier, Município: Carazinho, Região: 78424
+2024-10-24 11:44:55,997 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:56,921 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278597 HTTP/1.1" 400 95
+2024-10-24 11:44:56,922 - ERROR - Erro ao atualizar lead 21278597: 400 - {"error":{"code":"","message":"Lead already exists Supermercado Imperial ,Cansi, Sela & Cia "}}
+2024-10-24 11:44:56,922 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78424,
+                        "value": "Produção (R9)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:44:56,924 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:58,509 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278598 HTTP/1.1" 201 97
+2024-10-24 11:44:58,509 - INFO - Lead atualizado com sucesso! ID: 21278598, Nome: Supermercado Rech , Município: Tapejara, Região: 78422
+2024-10-24 11:44:58,511 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:44:59,928 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278599 HTTP/1.1" 201 97
+2024-10-24 11:44:59,928 - INFO - Lead atualizado com sucesso! ID: 21278599, Nome: Mercado Batista, Município: Soledade, Região: 78420
+2024-10-24 11:44:59,931 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:01,589 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278600 HTTP/1.1" 201 97
+2024-10-24 11:45:01,590 - INFO - Lead atualizado com sucesso! ID: 21278600, Nome: Mercado Picolo, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:01,591 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:03,804 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278601 HTTP/1.1" 201 97
+2024-10-24 11:45:03,804 - INFO - Lead atualizado com sucesso! ID: 21278601, Nome: Zes Supermercados , Município: Carazinho, Região: 78424
+2024-10-24 11:45:03,806 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:05,293 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278602 HTTP/1.1" 201 97
+2024-10-24 11:45:05,294 - INFO - Lead atualizado com sucesso! ID: 21278602, Nome: Supermercado Grenal, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:05,296 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:07,468 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278603 HTTP/1.1" 201 97
+2024-10-24 11:45:07,468 - INFO - Lead atualizado com sucesso! ID: 21278603, Nome: Mercado Lubian, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:07,470 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:09,413 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278604 HTTP/1.1" 201 97
+2024-10-24 11:45:09,413 - INFO - Lead atualizado com sucesso! ID: 21278604, Nome: S. A. G. Luvisa & Cia , Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:09,415 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:10,913 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278605 HTTP/1.1" 400 401
+2024-10-24 11:45:10,914 - ERROR - Erro ao atualizar lead 21278605: 400 - {"error":{"code":"","message":"Lead already exists Companhia Zaffari Comercio e Industria,Comercial Zaffari,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari  - Loja ,Comercial Zaffari,Comercial Zaffari,Comercial Zaffari "}}
+2024-10-24 11:45:10,915 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78424,
+                        "value": "Produção (R9)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:45:10,916 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:12,503 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278606 HTTP/1.1" 201 97
+2024-10-24 11:45:12,503 - INFO - Lead atualizado com sucesso! ID: 21278606, Nome: Supermercados Economia, Município: Carazinho, Região: 78424
+2024-10-24 11:45:12,504 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:13,533 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278607 HTTP/1.1" 400 401
+2024-10-24 11:45:13,535 - ERROR - Erro ao atualizar lead 21278607: 400 - {"error":{"code":"","message":"Lead already exists Companhia Zaffari Comercio e Industria,Comercial Zaffari,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari ,Comercial Zaffari  - Loja ,Comercial Zaffari,Comercial Zaffari,Comercial Zaffari "}}
+2024-10-24 11:45:13,535 - DEBUG - Payload enviado: {
+    "lead": {
+        "customFields": [
+            {
+                "id": "_regiao",
+                "options": [
+                    {
+                        "id": 78424,
+                        "value": "Produção (R9)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+2024-10-24 11:45:13,537 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:14,969 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278608 HTTP/1.1" 201 97
+2024-10-24 11:45:14,970 - INFO - Lead atualizado com sucesso! ID: 21278608, Nome: Mercado Hoppe , Município: Marau, Região: 78424
+2024-10-24 11:45:14,972 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:16,168 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278609 HTTP/1.1" 201 97
+2024-10-24 11:45:16,169 - INFO - Lead atualizado com sucesso! ID: 21278609, Nome: Supermercado Parana , Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:16,170 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:17,829 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278610 HTTP/1.1" 201 97
+2024-10-24 11:45:17,829 - INFO - Lead atualizado com sucesso! ID: 21278610, Nome: Mercado Santos, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:17,830 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:18,951 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278611 HTTP/1.1" 201 97
+2024-10-24 11:45:18,951 - INFO - Lead atualizado com sucesso! ID: 21278611, Nome: Binda Comercio de Produtos Alimenticios , Município: Marau, Região: 78424
+2024-10-24 11:45:18,953 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:20,196 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278612 HTTP/1.1" 201 97
+2024-10-24 11:45:20,197 - INFO - Lead atualizado com sucesso! ID: 21278612, Nome: Mercado Economizze, Município: Marau, Região: 78424
+2024-10-24 11:45:20,199 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:21,412 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278614 HTTP/1.1" 201 97
+2024-10-24 11:45:21,413 - INFO - Lead atualizado com sucesso! ID: 21278614, Nome: Valente Supermercado , Município: Marau, Região: 78424
+2024-10-24 11:45:21,415 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:23,040 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278615 HTTP/1.1" 201 97
+2024-10-24 11:45:23,041 - INFO - Lead atualizado com sucesso! ID: 21278615, Nome: Supermercado Vinicius , Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:23,043 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:24,342 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278616 HTTP/1.1" 201 97
+2024-10-24 11:45:24,343 - INFO - Lead atualizado com sucesso! ID: 21278616, Nome: Supermercado Rigo , Município: Santo Antônio do Palma, Região: 78424
+2024-10-24 11:45:24,345 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:25,802 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278617 HTTP/1.1" 201 97
+2024-10-24 11:45:25,803 - INFO - Lead atualizado com sucesso! ID: 21278617, Nome: Mercado Parobé, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:25,805 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:27,082 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278618 HTTP/1.1" 201 97
+2024-10-24 11:45:27,082 - INFO - Lead atualizado com sucesso! ID: 21278618, Nome: Supermercado Zigomar , Município: Marau, Região: 78424
+2024-10-24 11:45:27,084 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:28,296 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278620 HTTP/1.1" 201 97
+2024-10-24 11:45:28,296 - INFO - Lead atualizado com sucesso! ID: 21278620, Nome: Zes Supermercados , Município: Carazinho, Região: 78424
+2024-10-24 11:45:28,298 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:29,689 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278621 HTTP/1.1" 201 97
+2024-10-24 11:45:29,689 - INFO - Lead atualizado com sucesso! ID: 21278621, Nome: Supermercado Brunetto , Município: Soledade, Região: 78420
+2024-10-24 11:45:29,691 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:31,466 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278622 HTTP/1.1" 201 97
+2024-10-24 11:45:31,466 - INFO - Lead atualizado com sucesso! ID: 21278622, Nome: Mercado Bertão, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:31,468 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:32,889 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278624 HTTP/1.1" 201 97
+2024-10-24 11:45:32,889 - INFO - Lead atualizado com sucesso! ID: 21278624, Nome: Mercado Rodeio/Super Passo, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:32,891 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:34,627 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278625 HTTP/1.1" 201 97
+2024-10-24 11:45:34,628 - INFO - Lead atualizado com sucesso! ID: 21278625, Nome: Supermercado Alagoas, Município: Carazinho, Região: 78424
+2024-10-24 11:45:34,630 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:36,214 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278626 HTTP/1.1" 201 97
+2024-10-24 11:45:36,215 - INFO - Lead atualizado com sucesso! ID: 21278626, Nome: Real Supermercado , Município: Tapejara, Região: 78422
+2024-10-24 11:45:36,217 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:37,733 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278627 HTTP/1.1" 201 97
+2024-10-24 11:45:37,733 - INFO - Lead atualizado com sucesso! ID: 21278627, Nome: Supermercado Fenix, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:37,735 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:39,220 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278628 HTTP/1.1" 201 97
+2024-10-24 11:45:39,221 - INFO - Lead atualizado com sucesso! ID: 21278628, Nome: Cotrijal Cooperativa Agropecuaria e Industrial, Município: Santo Antônio do Planalto, Região: 78424
+2024-10-24 11:45:39,223 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:40,780 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278629 HTTP/1.1" 201 97
+2024-10-24 11:45:40,780 - INFO - Lead atualizado com sucesso! ID: 21278629, Nome: Sup. Locatelli, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:40,782 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:42,387 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278630 HTTP/1.1" 201 97
+2024-10-24 11:45:42,387 - INFO - Lead atualizado com sucesso! ID: 21278630, Nome: Mini mercado bizarro, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:42,389 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:43,567 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278631 HTTP/1.1" 201 97
+2024-10-24 11:45:43,568 - INFO - Lead atualizado com sucesso! ID: 21278631, Nome: Mercado Caio, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:43,570 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:44,752 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278632 HTTP/1.1" 201 97
+2024-10-24 11:45:44,752 - INFO - Lead atualizado com sucesso! ID: 21278632, Nome: Panificadora S G C Decarli , Município: Carazinho, Região: 78424
+2024-10-24 11:45:44,754 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:45,848 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278633 HTTP/1.1" 201 97
+2024-10-24 11:45:45,849 - INFO - Lead atualizado com sucesso! ID: 21278633, Nome: Via Qualita Supermercado , Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:45,850 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:46,930 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278634 HTTP/1.1" 201 97
+2024-10-24 11:45:46,930 - INFO - Lead atualizado com sucesso! ID: 21278634, Nome: Casa de carnes Gaúcho, Município: Marau, Região: 78424
+2024-10-24 11:45:46,932 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:48,095 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278635 HTTP/1.1" 201 97
+2024-10-24 11:45:48,096 - INFO - Lead atualizado com sucesso! ID: 21278635, Nome: Supermercado Bavaria , Município: Ernestina, Região: 78424
+2024-10-24 11:45:48,097 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:49,294 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278636 HTTP/1.1" 201 97
+2024-10-24 11:45:49,294 - INFO - Lead atualizado com sucesso! ID: 21278636, Nome: Mercado Parobé, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:49,296 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:50,857 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278637 HTTP/1.1" 201 97
+2024-10-24 11:45:50,857 - INFO - Lead atualizado com sucesso! ID: 21278637, Nome: Supermercado Cremacir Zanin e Filhos , Município: Marau, Região: 78424
+2024-10-24 11:45:50,859 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:52,103 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278638 HTTP/1.1" 201 97
+2024-10-24 11:45:52,103 - INFO - Lead atualizado com sucesso! ID: 21278638, Nome: Supermercado Danieli ., Município: Tapejara, Região: 78422
+2024-10-24 11:45:52,105 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:53,713 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278639 HTTP/1.1" 201 97
+2024-10-24 11:45:53,714 - INFO - Lead atualizado com sucesso! ID: 21278639, Nome: Comercial Zaffari , Município: Carazinho, Região: 78424
+2024-10-24 11:45:53,715 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:54,804 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278640 HTTP/1.1" 201 97
+2024-10-24 11:45:54,804 - INFO - Lead atualizado com sucesso! ID: 21278640, Nome: Mercado do bairro, Município: Passo Fundo, Região: 78424
+2024-10-24 11:45:54,806 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:56,322 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278641 HTTP/1.1" 201 97
+2024-10-24 11:45:56,323 - INFO - Lead atualizado com sucesso! ID: 21278641, Nome: Juliano A. Xavier & Cia , Município: Carazinho, Região: 78424
+2024-10-24 11:45:56,325 - DEBUG - Starting new HTTPS connection (1): api.exactspotter.com:443
+2024-10-24 11:45:57,509 - DEBUG - https://api.exactspotter.com:443 "PUT /v3/LeadsUpdate/21278643 HTTP/1.1" 201 97
+2024-10-24 11:45:57,509 - INFO - Lead atualizado com sucesso! ID: 21278643, Nome: Mercado Roso , Município: Marau, Região: 78424
